@@ -86,3 +86,5 @@ Pastikan sudah terinstall compiler G++.
 ```bash
 g++ konversi_lengkap.cpp -o konversi
 ./konversi
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Keep%20Coding%20%26%20Keep%20Growing!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=75" />
