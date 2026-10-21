@@ -1,6 +1,19 @@
 # Project Semester 1 - Konversi Sistem Bilangan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Halo+%F0%9F%91%8B+Selamat+Datang...;Ini+adalah+Repo+Pertama+Saya+di+GitHub!;Satria+Bagas+S.+-+552012610009)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Project%20Semester%201&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Konversi%20Sistem%20Bilangan%20|%20C%2B%2B%20%7C%20Metode%20Horner&descAlignY=55&descSize=18" />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=500&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Yo+Wassup+%F0%9F%91%8B+Welcome+to+My+Repo!;Satria+Bagas+S.+-+552012610009+%F0%9F%9A%80;This+is+My+First+Step+as+a+Dev!)](https://git.io/typing-svg)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GitHub](https://img.shields.io/badge/My%20First%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)
+![Semester](https://img.shields.io/badge/Semester%201-00D9FF?style=for-the-badge&logo=codeforces&logoColor=white)
+![Status](https://img.shields.io/badge/Status-DONE-success?style=for-the-badge)
+
+</div>
+
+---
 
 ## Identitas
 - **Nama:** Satria Bagas Sejati
