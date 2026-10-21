@@ -1,19 +1,24 @@
 # Project Semester 1 - Konversi Sistem Bilangan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Project%20Semester%201&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Konversi%20Sistem%20Bilangan%20|%20C%2B%2B%20%7C%20Metode%20Horner&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Satria%20Bagas%20Sejati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Si%20Anak%20Informatika%20%7C%20552012610009%20%7C%20Semester%201&descAlignY=55&descSize=20" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=500&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Yo+Wassup+%F0%9F%91%8B+Welcome+to+My+Repo!;Satria+Bagas+S.+-+552012610009+%F0%9F%9A%80;This+is+My+First+Step+as+a+Dev!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=400&color=00F5FF&background=0A0A23FF&center=true&vCenter=true&multiline=true&random=false&width=800&height=110&lines=Satria+Bagas+Sejati+Si+Anak+Informatika+%F0%9F%92%BB;Ngoding+Dari+Nol%2C+Mimpi+Setinggi+Langit+%F0%9F%9A%80;Welcome+To+My+First+Repo+On+GitHub+Fr+%F0%9F%94%A5;Teknik+Informatika+%7C+Slay+Every+Bug+%F0%9F%98%8E)](https://git.io/typing-svg)
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![GitHub](https://img.shields.io/badge/My%20First%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)
-![Semester](https://img.shields.io/badge/Semester%201-00D9FF?style=for-the-badge&logo=codeforces&logoColor=white)
-![Status](https://img.shields.io/badge/Status-DONE-success?style=for-the-badge)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![GitHub](https://img.shields.io/badge/FIRST_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GenZ](https://img.shields.io/badge/GEN_Z_CODER-FF00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/)
+[![Status](https://img.shields.io/badge/VIBE-ON_FIRE-00FF00?style=for-the-badge&logo=fire&logoColor=white)](https://github.com/)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
 
 ---
+
 
 ## Identitas
 - **Nama:** Satria Bagas Sejati
